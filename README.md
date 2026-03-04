@@ -166,28 +166,22 @@ SQLite Database
 
 # Screenshots
 
-### Login Page
+## Screenshots
 
-![Login](screenshot/login.png)
+### Admin Dashboard
+![Admin Dashboard](screenshots/dashboard-admin.png)
 
----
+### Manager Dashboard
+![Manager Dashboard](screenshots/dashboard-manager.png)
 
-### Dashboard
+### Viewer Dashboard
+![Viewer Dashboard](screenshots/dashboard-viewer.png)
 
-![Dashboard](screenshot/dashboard.png)
-
----
-
-### Admin Panel
-
-![Admin](screenshot/admin.png)
-
----
+### Admin User Management
+![Admin Users](screenshots/users-admin.png)
 
 ### Audit Logs
-
-![Audit Logs](screenshot/audit.png)
-
+![Audit Logs](screenshots/audit-logs.png)
 ---
 
 # Installation Guide
